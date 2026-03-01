@@ -1,0 +1,2 @@
+2026-03-01 22:05:27,814 - agent - ERROR - prompt_loader.py:42 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: 'E:\\software\\PyCharmProject\\AIRAG_Agent\\prompts/report_prompt.txt'
+2026-03-01 22:06:03,410 - agent - ERROR - prompt_loader.py:15 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: 'E:\\software\\PyCharmProject\\AIRAG_Agent\\prompts/main_prompt.txt'
